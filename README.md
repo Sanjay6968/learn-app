@@ -197,9 +197,9 @@ After running `npm run seed`:
 
 | Name          | Email               | Password    |
 |---------------|---------------------|-------------|
-| Alice Johnson | alice@example.com   | password123 |
-| Bob Smith     | bob@example.com     | password123 |
-| Charlie Brown | charlie@example.com | password123 |
+| monu          | monu@gmail.com      | pass@4647   |
+| sanjay        | sanjay@gmailcom     | pass@777    |
+| manij         | manij@gmail.com     | pass@7878   |
 
 These are also shown directly in the login page UI.
 
